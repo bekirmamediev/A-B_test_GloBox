@@ -11,7 +11,7 @@ GloBox, an e-commerce company, wants to introduce a new food banner on their web
 
 2. **A/B Test Analysis**
 
-- Analyzed the A/B test results using statistical methods.
+- Analyzed the A/B test results using statistical methods. [View statistical analysis](https://docs.google.com/spreadsheets/d/1P5EumrUrPxAKwmUdTS7PRA3IbNmS9mNRFqsX22OX8RM/edit?usp=sharing)
 
 3. **Reporting and Recommendations**
 
