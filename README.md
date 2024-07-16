@@ -17,3 +17,4 @@ GloBox, an e-commerce company, wants to introduce a new food banner on their web
 
 - Wrote a technical report on the A/B test results.
 - Created a presentation to deliver business recommendations.
+  
