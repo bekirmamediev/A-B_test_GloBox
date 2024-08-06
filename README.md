@@ -7,7 +7,7 @@ GloBox, an e-commerce company, wants to introduce a new food banner on their web
 1. **Data Extraction and Visualization**
 
 - Extracted user-level aggregated dataset using SQL.
-- Visualized the results in Tableau. [View the dashboard]([https://public.tableau.com/app/profile/bekir.mamediiev/viz/project_17056216020770/Dashboard1](https://public.tableau.com/app/profile/bekir.mamediiev/viz/project_17056216020770/FoodBannerImpact))
+- Visualized the results in Tableau. [View the dashboard](https://public.tableau.com/app/profile/bekir.mamediiev/viz/project_17056216020770/FoodBannerImpact)
 
 2. **A/B Test Analysis**
 
